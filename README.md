@@ -5,4 +5,4 @@
 • Utilized variable importance charts to identify crucial components in concrete mix design \
 • Conducted comparative analysis, benchmarking the outcomes against classical/linear and sequential techniques
 
-For complete report, refer pdf.
+For complete report, please refer pdf.
